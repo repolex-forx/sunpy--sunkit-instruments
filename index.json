@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "sunkit-instruments",
+  "versions": [
+    {
+      "commit": "df64b4e3cf35b66493a7ee1be8456e83aedb1fb0",
+      "tag": "",
+      "parsed_at": "2026-10-16T02:43:59.554856+00:00"
+    }
+  ]
+}
