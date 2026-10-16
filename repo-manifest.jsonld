@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sunpy/sunkit-instruments/commit/df64b4e3cf35b66493a7ee1be8456e83aedb1fb0",
       "git:hexsha": "df64b4e3cf35b66493a7ee1be8456e83aedb1fb0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T02:43:59.541871+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sunpy/sunkit-instruments/commit/7bb2ba4419dacf657dd971b5be7c50a86442f02f",
